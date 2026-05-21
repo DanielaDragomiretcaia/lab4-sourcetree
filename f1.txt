@@ -4,3 +4,4 @@ feature1 commit 2
 feature1 commit 3
 feature3 commit 2
 !!!!!!!!!!
+feature4 first commit
