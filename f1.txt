@@ -1,1 +1,2 @@
 Salut!
+Linia 2 - feature1 commit 1
